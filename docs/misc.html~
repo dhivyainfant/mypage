@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Dhivya Chinnappa</title>
+    <title> Dhivya Chinnappa</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -35,11 +35,11 @@
 			<h1 id="colorlib-logo"><a href="index.html">Dhivya<span>.</span></a></h1>
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
-					<li class="colorlib-active"><a href="index.html">Home</a></li>
-					<li><a href="research.html">Research</a></li>
+					<li><a href="index.html">Home</a></li>
+					<li ><a href="research.html">Research</a></li>
 <li><a href="publications.html">Publications</a></li>
 
-					<li><a href="misc.html">Miscellaneous</a></li>
+					<li class="colorlib-active"><a href="misc.html">Miscellaneous</a></li>
 					<li><a href="files/chinnappa_cv.pdf">Curriculam Vitae</a></li>
 					
 					
@@ -48,8 +48,8 @@
 
 			<div class="colorlib-footer">
 				<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-			   <font size="-2">Copyright  &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<p>Background image credits: Matt Kiser via <a href = "https://blog.algorithmia.com/natural-language-processing-algorithms-web-developers"/> blog.algorithmia.com</p> </font>
+			  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<p> Background image credits: Matt Kiser via <a href =https://blog.algorithmia.com/natural-language-processing-algorithms-web-developers"/> blog.algorithmia.com</p>
 				<ul>
 					
 					<li><a href="https://twitter.com/dhivyachinnappa"><i class="icon-twitter"></i></a></li>
@@ -58,25 +58,29 @@
 			</div>
 		</aside> <!-- END COLORLIB-ASIDE -->
 		<div id="colorlib-main">
+			
 			<div class="hero-wrap js-fullheight" style="background-image: url(images/light_nlp.png);" data-stellar-background-ratio="0.5">
-			
-				<div class="js-fullheight d-flex justify-content-center align-items-center">
-					<div class="col-md-8 text text-center">
-						<div class="img mb-4" style="background-image: url(images/dd.jpg);"></div>
-						<div class="desc">
-							<h2 class="subheading">Hello I'm</h2>
-							<h1 class="mb-4">Dhivya Chinnappa</h1>
-							<p class="mb-4">I am a Ph.D. candidate supervised by <a href="http://www.cse.unt.edu/~blanco/"> Dr. Eduardo Blanco</a> from the University of North Texas. My research focuses on Natural Language Processing and Machine Learning. I am a member of the <a href="http://hilt.cse.unt.edu/">Human Intelligence and Language Technologies Laboratory </a> at the <a href="https://computerscience.engineering.unt.edu/home">Department of Computer Science and Computer Engineering</a>. I currently work as a Research Assistant for <a href="http://www.cse.unt.edu/~blanco/"> Dr. Eduardo Blanco</a>.</p>
-<p class="mb-4"> I serve as the president of UNT Women in Computing. We as an organization support, celebrate, and advocate full engagement of women in all aspects of computing to advance the contributions of technical women.
-						</div>
-					</div>
-				</div>
-			</div>
-			
-        <div class="row">
-          <div class="col-md-6">
+		
+<div class="desc">
+<h1 class="mb-4" class="subheading">Miscellaneous</h1>
 
-            
+<p></p>
+<p></p>
+<h5>My favorite tamil poem by Kaniyan Poongundran and its english translation</h5>
+<font color="darkslategrey">
+<p>யாதும் ஊரே யாவரும் கேளிர்</p><p>தீதும் நன்றும் பிறர்தர வாரா</p><p>நோதலும் தணிதலும் அவற்றோ ரன்ன</p><p>சாதலும் புதுவது அன்றே, வாழ்தல்</p><p>பெரியோரை வியத்தலும் இலமே,</p><p>சிறியோரை இகழ்தல் அதனினும் இலமே. (புறம்: 192)</p><p>To us all towns are one, all men our kin,</p><p>Life&#039;s good comes not from others&#039; gifts, nor ill,</p><p>Man&#039;s pains and pain&#039;s relief are from within,</p><p>Death&#039;s no new thing, nor do our bosoms thrill</p><p>We marvel not at the greatness of the great;</p><p>Still less despise we men of low estate.</p><p>(Translated by <span class="qlink_container"><a href="https://en.wikipedia.org/wiki/George_Uglow_Pope" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 17814453);" class="external_link" data-qt-tooltip="wikipedia.org">G.U.Pope</a></span>, 1906)</p>
+</font>
+</div>							
+				
+			</div>
+
+			
+   
+      </div>
+    </footer>
+		</div><!-- END COLORLIB-MAIN -->
+	</div><!-- END COLORLIB-PAGE -->
+
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 

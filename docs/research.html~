@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Dhivya Chinnappa</title>
+    <title> Dhivya Chinnappa</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -35,12 +35,13 @@
 			<h1 id="colorlib-logo"><a href="index.html">Dhivya<span>.</span></a></h1>
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
-					<li class="colorlib-active"><a href="index.html">Home</a></li>
-					<li><a href="research.html">Research</a></li>
+					<li><a href="index.html">Home</a></li>
+					<li class="colorlib-active"><a href="research.html">Research</a></li>
 <li><a href="publications.html">Publications</a></li>
 
 					<li><a href="misc.html">Miscellaneous</a></li>
-					<li><a href="files/chinnappa_cv.pdf">Curriculam Vitae</a></li>
+<li><a href="files/chinnappa_cv.pdf">Curriculam Vitae</a></li>
+					
 					
 					
 				</ul>
@@ -48,8 +49,8 @@
 
 			<div class="colorlib-footer">
 				<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-			   <font size="-2">Copyright  &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<p>Background image credits: Matt Kiser via <a href = "https://blog.algorithmia.com/natural-language-processing-algorithms-web-developers"/> blog.algorithmia.com</p> </font>
+			  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<p> Background image credits: Matt Kiser via <a href = "https://blog.algorithmia.com/natural-language-processing-algorithms-web-developers"/> blog.algorithmia.com</p>
 				<ul>
 					
 					<li><a href="https://twitter.com/dhivyachinnappa"><i class="icon-twitter"></i></a></li>
@@ -58,25 +59,34 @@
 			</div>
 		</aside> <!-- END COLORLIB-ASIDE -->
 		<div id="colorlib-main">
+			
 			<div class="hero-wrap js-fullheight" style="background-image: url(images/light_nlp.png);" data-stellar-background-ratio="0.5">
-			
-				<div class="js-fullheight d-flex justify-content-center align-items-center">
-					<div class="col-md-8 text text-center">
-						<div class="img mb-4" style="background-image: url(images/dd.jpg);"></div>
-						<div class="desc">
-							<h2 class="subheading">Hello I'm</h2>
-							<h1 class="mb-4">Dhivya Chinnappa</h1>
-							<p class="mb-4">I am a Ph.D. candidate supervised by <a href="http://www.cse.unt.edu/~blanco/"> Dr. Eduardo Blanco</a> from the University of North Texas. My research focuses on Natural Language Processing and Machine Learning. I am a member of the <a href="http://hilt.cse.unt.edu/">Human Intelligence and Language Technologies Laboratory </a> at the <a href="https://computerscience.engineering.unt.edu/home">Department of Computer Science and Computer Engineering</a>. I currently work as a Research Assistant for <a href="http://www.cse.unt.edu/~blanco/"> Dr. Eduardo Blanco</a>.</p>
-<p class="mb-4"> I serve as the president of UNT Women in Computing. We as an organization support, celebrate, and advocate full engagement of women in all aspects of computing to advance the contributions of technical women.
-						</div>
-					</div>
-				</div>
-			</div>
-			
-        <div class="row">
-          <div class="col-md-6">
+		
+<div class="desc">
+<h1 class="mb-4" class="subheading">  Research </h1>
+<h5 class="mb-4"> <font color = "Black"> Key research areas: Semantic relation extraction, temporal anchoring, temporal ordering, multimodal event extraction </font></h5>
+<p> <font color = "darkslategrey">My research focuses on extracting events and their attributes. In particular, my Ph.D. research concentrates on a single event---possession. Possession is an asymmetric semantic relation, where an entity (possessor) possesses another entity (possessee). Throughout my Ph.D., I work on automatically extracting possession and its attributes. In this section, I briefly explain my research published so far. For more details on my research read my <a href="publications.html">publications</a>.</p>
+					
+<p></p>
+<p></p>
+<h5>Temporally-oriented possession: A corpus for tracking possession over time</h5>
+<p>In this work, we present a new corpus for tracking concrete objects as they change hands over time. We then generate a timeline using the corpus which includes possessors, the certainty of possession, and the duration of possession. In addition to possessors that are named entities, we extract possessors that are not identified by conventional NERs. We also present a strategy to place possessors who do not have an explicit time mention on the timeline.</p>
+<h5>Possessors Change Over Time: A Case Study with Artworks</h5>
+<p>In this research, we work on Wikipedia articles on historical artifacts, which mostly includes paintings like the Guernica and the Mona Lisa. The goal is to identify all possessors of a chosen artifact and the years in which they were possessed. We present a mechanism to pair the possessors and years, along with a LSTM ensemble to predict possession relations.</p>
+<h5> Mining possesions: Existence, Type and Temporal Anchor</h5>
+<p> In this work, we extract the presence of possession in sentence level. We then identify the type of possession and temporally anchor the possession relation with respect to the verb in the sentence. We automatically extract these relations using SVM and deep learning models.</p>
 
-            
+</div>							
+				
+			</div>
+
+			
+   
+      </div>
+    </footer>
+		</div><!-- END COLORLIB-MAIN -->
+	</div><!-- END COLORLIB-PAGE -->
+
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
